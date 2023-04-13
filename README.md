@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+New HUB Cloud Training docs page (#8174)
