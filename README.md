@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
