@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Fixed RTDETR GFLOPs bug (#7309)
