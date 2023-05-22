@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Reverse IoU threshold for NMS docs descriptions (#9151)
