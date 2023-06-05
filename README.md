@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Segment TensorRT batch=3 fix (#7952)
