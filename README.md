@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
