@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Add new YOLOv8 OBB model metrics (#7379)
