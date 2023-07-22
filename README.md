@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
