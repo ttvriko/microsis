@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Expand Model method type hinting (#8279)
