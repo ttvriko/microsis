@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Update Discord and Contributing Guide URLs (#9270)
