@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
