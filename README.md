@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
