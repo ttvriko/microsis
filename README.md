@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Fix IS_PYTHON_3_12 bug (#9258)
