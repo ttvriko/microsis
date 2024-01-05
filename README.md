@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add bgr hyperparameter (#9139)
