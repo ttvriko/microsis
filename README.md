@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Fix PIL show() and save() (#8202)
