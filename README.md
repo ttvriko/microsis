@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Resize angle, count, and stage on keypoint number change (#7598)
