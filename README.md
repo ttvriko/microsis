@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
