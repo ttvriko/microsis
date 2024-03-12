@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add horizontal Mosaic3 augmentation (#6898)
