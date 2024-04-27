@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
