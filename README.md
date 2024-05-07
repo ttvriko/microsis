@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
