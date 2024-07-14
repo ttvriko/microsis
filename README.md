@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Move Explorer tests to scheduled CI (#8305)
