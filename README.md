@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Fix device counting method to account for double-digit device IDs (#8502)
