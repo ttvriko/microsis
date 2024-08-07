@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Update CI.md with CI links (#8786)
