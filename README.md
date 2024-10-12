@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Compare plt.get_backend() in lowercase (#8409)
